@@ -1,0 +1,46 @@
+# YACC/Bison generated files
+y.tab.c
+y.tab.h
+*.tab.c
+*.tab.h
+
+# LEX/Flex generated files
+lex.yy.c
+*.yy.c
+
+# Compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Compiled executables
+calculator
+parser
+*.exe
+*.out
+*.app
+
+# Backup files
+*~
+*.bak
+*.backup
+
+# Mac OS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Visual Studio Code files
+.vscode/
+*.code-workspace
+
+# JetBrains IDE files
+.idea/
+*.iml
+*.iws
+
+# Temporary files
+*.log
+*.swp
+.*.swp 
